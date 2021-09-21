@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fjalla+One&display=swap');
+
+body {
+    background-color: rgb(235, 203, 162);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: purple;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.main div {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: 1rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: rgb(21, 74, 172);
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 3rem;
+}
